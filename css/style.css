@@ -1,0 +1,42 @@
+html{
+    scroll-behavior: smooth;
+     
+  }
+
+  body {
+        background-color:  #FFDEAD; 
+        background-repeat: round;
+  }
+
+  .imgtexto{
+    border: 5px dashed maroon;
+    width: 55%;
+
+}
+
+h1 {
+    text-align: center;
+    color: maroon;
+    line-height: 2;
+    font-size: 2em;
+    font-family: 'Odibee Sans', cursive;
+
+}
+
+p {       	
+    color: #A0522D;
+    font-size: 1.2em;
+    margin-top: 2%;
+    margin-bottom: 2%;
+    text-align: center;
+
+}
+
+.contato {
+    width: 55%;
+
+}
+
+.footer {
+    color: #ffff;
+}
